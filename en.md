@@ -1,14 +1,10 @@
-# 英文隱私權條款範本文件
-
-> 請將 [Your Website Name] 代換成你的網名稱，並且替換最下面的連絡資訊
-
 ## Privacy Policy
 
-Last updated: [Date]
+Last updated: 2025/01/02
 
 ### Introduction
 
-Welcome to [Your Website Name]. We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site.
+Welcome to Marcus Calculator. We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site.
 
 ### Data Controller
 
@@ -70,10 +66,5 @@ We may update this Privacy Policy from time to time in order to reflect, for exa
 
 If you have questions or comments about this Privacy Policy, please go to "Contact Us" page on this website, or contact us at:
 
-- Company: [Your Company Name]
-- [Address]
-- [City, State, ZIP Code]
-- [Email Address]
-- [Phone Number]
-
-- Data Protection Officer: [Data Protection Officer <email>]
+- Company: iAmMarcus
+- Email: softicecan@gmail.com
